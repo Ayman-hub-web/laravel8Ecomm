@@ -1,0 +1,7 @@
+Hier einige Erklärungen, wie man dieses Projekt starten kann:
+- Man hat hier ein fertiges Design benutzt.
+- Backend und Frontend trennen und durch Rechte erreichbar.
+- Users table bekommt ein neues Feld role mit admin oder user.
+- AdminController wird definiert und natürlich unter Admin verzeichnis unter Controllers gespeichert.
+- In AdminController wird die Funktion makeLogin definiert, mir der man entscheidet wohin der User geloggt wird.
+- 
